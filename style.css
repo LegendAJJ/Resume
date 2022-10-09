@@ -1,0 +1,26 @@
+body {
+    background-color: #D8D8D8;
+
+  }
+  hr {
+    color: #7895B2;
+    border-style:none;
+    width: 5%;
+    border-width: 5px;
+    border-top-style: dotted;
+
+  }
+  h1{
+    color:#277BC0;
+  }
+  h2{
+    color:#277BC0;
+  }
+  table{
+    spacing : "20";
+    style : "background-color:#AEBDCA;"
+  }
+  h3{
+    color:#277BC0;
+
+  }
