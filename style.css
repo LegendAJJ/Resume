@@ -16,9 +16,15 @@ body {
   h2{
     color:#277BC0;
   }
-  table{
-    spacing : "20";
-    style : "background-color:#AEBDCA;"
+  .skill_table {
+    padding : "20px";
+    background-color: #8bb7c3;
+   
+  }
+  .profile_table {
+    padding : "20px";
+    
+   
   }
   h3{
     color:#277BC0;
